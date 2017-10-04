@@ -15,7 +15,7 @@ cd into directory with ts.py script
 make script executable
 >chmod a+x  ts.py
 
-tun teh script
+run teh script
 >./ts.py
 
 File SamplesAges.txt with ages will be generated                   
