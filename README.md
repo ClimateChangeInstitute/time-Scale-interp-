@@ -1,4 +1,4 @@
-# time-Scale-interp-
+# time-Scale-interp
 python source code to interpolate ages from time scale on selected smpling intervals
 @author: andrei Kurbatov
 June27  2016
