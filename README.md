@@ -8,7 +8,7 @@ To calculate sample ages from ice core sample depths (SampleDepths.csv) using ti
 
 Python:
  
-Install modern python distribution with pandas and numpy libraries (modules) e.g., Anaconda
+Install  python 2 distribution with pandas and numpy libraries (modules) e.g., Anaconda
 https://www.continuum.io/downloads
 open terminal 
 cd into directory with ts.py script
@@ -20,5 +20,8 @@ run the script
 
 File SamplesAges.txt with ages will be generated                   
                             
+To run script using python 3 
+use 
+timeScaleResampler.py 
 
                             
